@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Greet_API
+
+server:
+  port: 2222
